@@ -1,4 +1,4 @@
-### Ola! eu sou Jhonatan Lucas 👋
+### Ola pessoal, sejam bem vindos ao meu GitHub 👋
 
 ![Jhonatan Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan&show_icons=true&theme=radical)
 
