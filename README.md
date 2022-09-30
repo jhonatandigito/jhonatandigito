@@ -1,6 +1,6 @@
 ### Ola pessoal, sejam bem vindos ao meu GitHub 👋
 
-![JhonatanLucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan&show_icons=true&theme=radical)
+![JhonatanLucas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatandigito&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no dia a dia !
 <div style ="display: inline_block"><br/>
